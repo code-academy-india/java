@@ -25,3 +25,6 @@ session4
 
 session5
 	Loops
+
+session6
+	Arrays
