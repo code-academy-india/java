@@ -28,3 +28,6 @@ session5
 
 session6
 	Arrays
+
+session7
+	OOPS Classes and Objects
