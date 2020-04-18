@@ -16,3 +16,8 @@ session1
 
 session2
 	Working with variables
+
+session3
+	Working with various operators
+
+	
