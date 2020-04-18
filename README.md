@@ -13,4 +13,3 @@ Try running these projects from within IDE only.
 
 session1
 	Hello World
-
