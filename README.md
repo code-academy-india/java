@@ -37,3 +37,6 @@ session8
 	
 session9
 	OOPS Inheritance
+
+session10
+	OOPS Class Casting	
